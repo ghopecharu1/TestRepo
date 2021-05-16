@@ -21,6 +21,8 @@ public class Collections1 {
 		intlist.add(1);
 		intlist.add(2);
 		intlist.add(2);
+		intlist.add(2);
+		intlist.add(2); //done..
 		System.out.println(intlist);
 		System.out.println(mylist);
 		
