@@ -20,6 +20,7 @@ public class Collections1 {
 		ArrayList<Integer> intlist = new ArrayList<Integer>();
 		intlist.add(1);
 		intlist.add(2);
+		intlist.add(2);
 		System.out.println(intlist);
 		System.out.println(mylist);
 		
